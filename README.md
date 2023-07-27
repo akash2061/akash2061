@@ -57,11 +57,12 @@
 #
 
 **Platforms:**
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ubuntu_logo_icon_147216.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/640px-Parrot_Logo.png"></code>
+
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ubuntu_logo_icon_147216.png" alt="Ubuntu"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali-Linux"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"></code>
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" alt="Arch-Linux"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/640px-Parrot_Logo.png" alt="Parrot-OS"></code>
 <br/><br/>
 
 <p align="center" style='margin: 16px 4px 8px;'>
@@ -82,8 +83,8 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <p align="left">
-    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="akash2061"/>
+    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="akash2061"/>
   <img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=akash2061&theme=radical" alt="akash2061" />
 </p>
 </details>
