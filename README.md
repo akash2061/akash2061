@@ -34,7 +34,7 @@
 <a href="https://www.chess.com/member/aakash7878"><img height="30" src="https://store-images.microsoft.com/image/apps.62907.9007199267033303.5996327a-6284-49cc-9c9a-dccffd955551.fa8149dd-0d7e-4c67-a6ec-689789aed23d?mode=scale&q=90&h=300&w=300" alt="Chess.com" ></h2>
 <hr>
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
