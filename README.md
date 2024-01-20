@@ -44,6 +44,7 @@
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://rustacean.net/assets/cuddlyferris.png"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQl22W8KQ7DlDGwL7N7QvDyAuZKqFL6E-Ww&usqp=CAU"></code>
 <code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
