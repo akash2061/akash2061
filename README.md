@@ -1,4 +1,4 @@
-<p align="center"> <img height="260" width="500" src="https://64.media.tumblr.com/0479b813284c10a4031f03a142707c4f/986795bba28ec1c9-ff/s500x750/11efc48a5df3eb44e9421a59c9a857dea4c134ba.gif"
+<p align="center"> <img height="auto" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/87c84e122427761.60d9d8416d2df.gif"
   alt="akash2061" />
 
 <h1 align="center">  Hello, &lt;coders/&gt;! 🌱 <br>I'm Akash Soni. 💫</h1>
