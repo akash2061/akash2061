@@ -1,7 +1,7 @@
-<p align="center"> <img height="270" width="600" src="https://giffiles.alphacoders.com/211/211930.gif"
+<p align="center"> <img height="270" width="500" src="https://64.media.tumblr.com/0479b813284c10a4031f03a142707c4f/986795bba28ec1c9-ff/s500x750/11efc48a5df3eb44e9421a59c9a857dea4c134ba.gif"
   alt="akash2061" />
 
-<h1 align="center">  Hello, &lt;coders/&gt;!<br>I'm Akash Soni</h1>
+<h1 align="center">  Hello, &lt;coders/&gt;! 🌱 <br>I'm Akash Soni. 💫</h1>
 <h3 align="center">A Growing Developer.</h3>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=fire+code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile." alt="Welcome to my GitHub Profile." />
