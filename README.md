@@ -65,7 +65,6 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali-Linux"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" alt="Arch-Linux"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/640px-Parrot_Logo.png" alt="Parrot-OS"></code>
 <br/><br/>
 
 <p align="center" style='margin: 16px 4px 8px;'>
