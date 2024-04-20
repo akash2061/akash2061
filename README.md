@@ -1,5 +1,5 @@
-<p align="center"> <img height="auto" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/87c84e122427761.60d9d8416d2df.gif"
-  alt="akash2061" />
+<!--- <p align="center"> <img height="auto" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/87c84e122427761.60d9d8416d2df.gif" alt="akash2061" /> --->
+<p align="center"> <img height="auto" width="auto" src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" alt="akash2061" />
 
 <h1 align="center">  Hello, &lt;coders/&gt;! 🌱 <br>I'm Akash Soni. 💫</h1>
 <h3 align="center">A Growing Developer.</h3>
