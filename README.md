@@ -1,7 +1,7 @@
 <!--- <p align="center"> <img height="auto" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/87c84e122427761.60d9d8416d2df.gif" alt="akash2061" /> --->
 <p align="center"> <img height="auto" width="auto" src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" alt="akash2061" />
 
-<h1 align="center">  Hello, &lt;coders/&gt;! 🌱 <br>I'm Akash Soni. 💫</h1>
+<h1 align="center">  Hello, &lt;coders/&gt;! 🌱 <br><img height=65 src="https://media.baamboozle.com/uploads/images/208336/1610794240_7470"/>I'm Akash Soni. 💫</h1>
 <h3 align="center">A Growing Developer.</h3>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=fire+code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile." alt="Welcome to my GitHub Profile." />
@@ -35,8 +35,9 @@
 <hr>
 
 <!--- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif"/> 
-<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://25.media.tumblr.com/ff53e6a275140e7f2586438c7dfc18a0/tumblr_n17e2zlX2a1slik4to1_500.gif"/> --->
-<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/51180ce380190ecc9c21950eecfd518d333675af409b26ddb9414b82fdfaf514/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966"/>
+<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://25.media.tumblr.com/ff53e6a275140e7f2586438c7dfc18a0/tumblr_n17e2zlX2a1slik4to1_500.gif"/> 
+<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/51180ce380190ecc9c21950eecfd518d333675af409b26ddb9414b82fdfaf514/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966"/>--->
+<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://66.media.tumblr.com/0699f4abac93fe1171519d0f61b60a0e/tumblr_mjok0p1gm81rfjowdo1_500.gif"/>
 <br/>
 <div align='center'>
 
