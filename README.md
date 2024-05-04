@@ -63,6 +63,7 @@
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="40" width="40" src="https://imgs.search.brave.com/V0AsLIO_0aYGw8DpKpoplTxq0SNmsnyoPMGan6c41u8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC92aW0tb3Jp/Z2luYWwtaWNvbi0y/MDQ2eDIwNDgtem5h/NG1oeTIucG5n"></code>
 <code><img height="40" width="40" src="https://imgs.search.brave.com/1zc7gZNGN80g0laR7x4ALtyCVkUxmRzf8xtngqxmg8s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hcHBzLW5l/b3ZpbS1pY29uLTUx/Mng1MTItdzRlY3Yz/dWgucG5n"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png"></code>
 
