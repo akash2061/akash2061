@@ -55,7 +55,7 @@
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="42" width="52" src="https://rustacean.net/assets/cuddlyferris.png"></code>
 <code><img height="50" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Yellow.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/bash-shell-script-7855733-6374566.png"></code>
+<code><img height="45" width="42" src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/></code>
 
 #
