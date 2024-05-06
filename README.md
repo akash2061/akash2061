@@ -14,7 +14,7 @@
   Let's Connect and have a Chat!💬
 </h1>
   <p align='center'>
-    <a href="https://www.linkedin.com/in/akash-soni-01475924b/"><img height="30" src="https://i.pinimg.com/originals/ed/9c/d7/ed9cd7adaf39fa263cf6fb5552f278ed.png" alt="akash soni" ></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/akash-soni-01475924b/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="akash soni" ></a>&nbsp;&nbsp;
     <a href="mailto:aakashsoni8781@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     </p>
     <p>
