@@ -23,7 +23,7 @@
     <a href="https://github.com/akash2061" target="blank" rel="noreferrer">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="https://github.com/akash2061" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-     <a href="https://auth.geeksforgeeks.org/user/akash2061" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+     <a href="https://auth.geeksforgeeks.org/user/akash2061" target="blank"><img align="center" src="https://geeksforgeeks.zohorecruit.in/recruit/viewCareerImage.do?page_id=61093000000211152&type=logo&file_name=GG_Logo.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
      </p>
 </div>
 <br/>
