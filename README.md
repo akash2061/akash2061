@@ -97,7 +97,7 @@
 </summary>
 <p align="left">
     <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="akash2061"/>
-    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="akash2061"/>
+    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="akash2061"/>
   <img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=akash2061&theme=radical" alt="akash2061" />
 </p>
 </details>
