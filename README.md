@@ -100,7 +100,7 @@
     <!--<img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash2061&theme=blue-green&hide_border=fa[](url)lse&include_all_commits=false&count_private=false&layout=compact&langs_count=8" alt="akash2061"/>-->
   <img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=akash2061&theme=radical" alt="akash2061" />
     <br>
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&langs_count=8&theme=blue-green" />
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&langs_count=15&theme=blue-green" />
 </p>
 </details>
 <br/>
