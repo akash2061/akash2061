@@ -58,7 +58,7 @@
 <code><img height="50" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Yellow.png"></code>
 <code><img height="45" width="42" src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/></code>
-<code><img height="50" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"/></code>
+<code><img height="60" width="60"src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"/></code>
 
 #
 
