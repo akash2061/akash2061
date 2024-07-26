@@ -25,11 +25,12 @@
     </a>
     <a href="https://leetcode.com/u/akash_2061/" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" alt="leetcode" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>    
     <a href="https://www.geeksforgeeks.org/user/morningstar2061/" target="blank"><img align="center" src="https://geeksforgeeks.zohorecruit.in/recruit/viewCareerImage.do?page_id=61093000000211152&type=logo&file_name=GG_Logo.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https://www.hackerrank.com/profile/akash2061" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
      </p>
 </div>
 <br/>
 
--   🌱 I’m currently learning **C++ & Python3 for better development of my skills.**
+-   🌱 I’m currently learning **C++ & Java for better development of my skills.**
 
 <h2 align="center">Challenge me on: <br>
 <a href="https://www.chess.com/member/aakash7878"><img height="30" src="https://store-images.microsoft.com/image/apps.62907.9007199267033303.5996327a-6284-49cc-9c9a-dccffd955551.fa8149dd-0d7e-4c67-a6ec-689789aed23d?mode=scale&q=90&h=300&w=300" alt="Chess.com" >&nbsp;&nbsp;
