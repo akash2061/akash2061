@@ -109,7 +109,7 @@
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=15&theme=nightowl" />
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=15&theme=midnight-purple" />
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=15&theme=algolia" />-->
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=20&theme=holi" />
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=20&theme=holi&exclude_repo=MERN-STACK-TRAINING" />
 </p>
 </details>
 <br/>
