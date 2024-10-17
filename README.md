@@ -63,12 +63,12 @@
 
 #
 
+<code><img height="40" width="40" src="./icons/github_improved.png"></code>
+<code><img height="40" width="40" src="./icons/git.svg"></code>
 <code><img height="40" width="40" src="./icons/vscode.svg"></code>
 <code><img height="40" width="40" src="./icons/Vim.png"></code>
 <code><img height="40" width="40" src="./icons/neovim.webp"></code>
 <code><img height="40" width="40" src="./icons/jupyter.png"></code>
-<code><img height="40" width="40" src="./icons/git.svg"></code>
-<code><img height="40" width="40" src="./icons/github_improved.png"></code>
 
 #
 
