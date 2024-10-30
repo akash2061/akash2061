@@ -71,7 +71,6 @@
 <code><img height="40" width="40" src="./icons/neovim.webp"></code>
 <code><img height="40" width="40" src="./icons/jupyter.png"></code>
 
-<br>
 <hr>
 
 **OS:**&nbsp;&nbsp;
