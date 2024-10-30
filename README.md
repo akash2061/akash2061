@@ -35,7 +35,6 @@
 <h2 align="center">Challenge me on: <br>
 <a href="https://www.chess.com/member/aakash7878"><img height="30" src="./icons/chess.jpeg" alt="Chess.com" >&nbsp;&nbsp;
 <a href="https://lichess.org/@/aakash2061"><img height="30" src="./icons/lichess.png" alt="Chess.com" ></a></h2>
-<hr>
 
 <!--- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif"/> 
 <img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/51180ce380190ecc9c21950eecfd518d333675af409b26ddb9414b82fdfaf514/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966"/>
@@ -61,7 +60,7 @@
 <code><img height="50" src="./icons/mysql.svg"/></code>
 <code><img height="60" width="60" src="./icons/java.png"/></code>
 
-#
+<br>
 
 <code><img height="40" width="40" src="./icons/github_improved.png"></code>
 <code><img height="40" width="40" src="./icons/git.svg"></code>
@@ -71,7 +70,7 @@
 <code><img height="40" width="40" src="./icons/neovim.webp"></code>
 <code><img height="40" width="40" src="./icons/jupyter.png"></code>
 
-#
+<br>
 
 **OS:**&nbsp;&nbsp;
 <code><img height="40" width="40" src="./icons/ubuntu.webp" alt="Ubuntu"></code>
@@ -80,7 +79,11 @@
 <code><img height="40" width="40" src="./icons/archBTW.webp" alt="Arch-Linux"></code>
 <code><img height="35" width="35" src="./icons/parrot.jpeg" alt="ParrotOS"></code>
 </div>
-<br/><br/>
+<br/>
+
+#
+
+<br/>
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <img src="https://komarev.com/ghpvc/?username=akash2061&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
