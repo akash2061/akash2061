@@ -72,6 +72,7 @@
 <code><img height="40" width="40" src="./icons/jupyter.png"></code>
 
 <br>
+<hr>
 
 **OS:**&nbsp;&nbsp;
 <code><img height="40" width="40" src="./icons/ubuntu.webp" alt="Ubuntu"></code>
@@ -79,12 +80,10 @@
 <code><img height="40" width="40" src="./icons/win32.png" alt="Windows"></code>
 <code><img height="40" width="40" src="./icons/archBTW.webp" alt="Arch-Linux"></code>
 <code><img height="35" width="35" src="./icons/parrot.jpeg" alt="ParrotOS"></code>
+
+<hr>
 </div>
-<br/>
 
-#
-
-<br/>
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <img src="https://komarev.com/ghpvc/?username=akash2061&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
