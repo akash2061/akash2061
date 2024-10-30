@@ -45,7 +45,8 @@
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
 
-<br/>
+<hr>
+
 <code><img height="45" width="45" src="./icons/cpp.png"></code>
 <code><img height="45" width="45" src="./icons/c.webp"></code>
 <code><img height="43" width="43" src="./icons/python.svg"></code>
@@ -60,8 +61,7 @@
 <code><img height="50" src="./icons/mysql.svg"/></code>
 <code><img height="60" width="60" src="./icons/java.png"/></code>
 
-<br>
-<br>
+<hr>
 
 <code><img height="40" width="40" src="./icons/github_improved.png"></code>
 <code><img height="40" width="40" src="./icons/git.svg"></code>
