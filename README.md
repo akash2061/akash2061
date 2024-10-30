@@ -61,6 +61,7 @@
 <code><img height="60" width="60" src="./icons/java.png"/></code>
 
 <br>
+<br>
 
 <code><img height="40" width="40" src="./icons/github_improved.png"></code>
 <code><img height="40" width="40" src="./icons/git.svg"></code>
