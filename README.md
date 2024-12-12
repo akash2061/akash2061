@@ -27,6 +27,7 @@
     <a href="https://www.geeksforgeeks.org/user/morningstar2061/" target="blank"><img align="center" src="./icons/gfg.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
     <a href="https://www.hackerrank.com/profile/akash2061" target="blank"><img align="center" src="./icons/hackerrank.webp" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
      </p>
+    <a href="https://www.credly.com/users/akash2061"><img height="30" src="./icons/Credly.png"></a>
 </div>
 <br/>
 
