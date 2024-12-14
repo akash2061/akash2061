@@ -16,6 +16,7 @@
   <p align='center'>
     <a href="https://www.linkedin.com/in/akash-soni-01475924b/"><img height="30" src="./icons/linkedin.png" alt="akash soni" ></a>&nbsp;&nbsp;
     <a href="mailto:aakashsoni8781@gmail.com"><img height="30" src="./icons/email.png"></a>&nbsp;&nbsp;
+    <a href="https://dev.to/akash2061"><img height="30" src="./icons/dev.png"></a>&nbsp;&nbsp;
     </p>
     <p>
     <a href="https://stackoverflow.com/users/20176960/morningstar" target="_blank"><img align="center" src="./icons/stackoverflow.png" alt="morningstar" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
