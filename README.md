@@ -85,6 +85,9 @@
 <hr>
 </div>
 
+<p align="center">
+<a  href="https://www.buymeacoffee.com/akash2061"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=akash2061&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+</p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <img src="https://komarev.com/ghpvc/?username=akash2061&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
