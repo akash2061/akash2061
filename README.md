@@ -90,7 +90,7 @@
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
-    <img src="https://komarev.com/ghpvc/?username=akash2061&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
+    <img src="https://komarev.com/ghpvc/?username=akash2061&label=Profile%20views&color=0e75b6&style=plastic" alt="github profile views" />
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
