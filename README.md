@@ -75,12 +75,12 @@
 
 <hr>
 
-**OS:**&nbsp;&nbsp;
-<code><img height="40" width="40" src="./icons/ubuntu.webp" alt="Ubuntu"></code>
-<code><img height="50" width="50" src="./icons/kali.svg" alt="Kali-Linux"></code>
-<code><img height="40" width="40" src="./icons/win32.png" alt="Windows"></code>
+**OS Stack:**&nbsp;&nbsp;
 <code><img height="40" width="40" src="./icons/archBTW.webp" alt="Arch-Linux"></code>
-<code><img height="35" width="35" src="./icons/parrot.jpeg" alt="ParrotOS"></code>
+<code><img height="50" width="50" src="./icons/kali.svg" alt="Kali-Linux"></code>
+<code><img height="40" width="40" src="./icons/redhat.png" alt="RedHat"></code>
+<code><img height="40" width="40" src="./icons/ubuntu.webp" alt="Ubuntu"></code>
+<code><img height="40" width="40" src="./icons/win32.png" alt="Windows"></code>
 
 <hr>
 </div>
