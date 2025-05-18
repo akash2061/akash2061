@@ -38,10 +38,11 @@
 <a href="https://www.chess.com/member/aakash7878"><img height="30" src="./icons/chess.jpeg" alt="Chess.com" >&nbsp;&nbsp;
 <a href="https://lichess.org/@/aakash2061"><img height="30" src="./icons/lichess.png" alt="Chess.com" ></a></h2>
 
-<!--- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif"/> 
-<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/51180ce380190ecc9c21950eecfd518d333675af409b26ddb9414b82fdfaf514/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966"/>
-<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://66.media.tumblr.com/0699f4abac93fe1171519d0f61b60a0e/tumblr_mjok0p1gm81rfjowdo1_500.gif"/>--->
-<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://25.media.tumblr.com/ff53e6a275140e7f2586438c7dfc18a0/tumblr_n17e2zlX2a1slik4to1_500.gif"/> 
+
+<!-- <img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://25.media.tumblr.com/ff53e6a275140e7f2586438c7dfc18a0/tumblr_n17e2zlX2a1slik4to1_500.gif"/>  -->
+<!-- <img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="./icons/Cloud.gif"/>  -->
+<!-- <img align="left" padding height="270px" width="300px" alt="𝙶𝙸𝙵" src="./icons/fire.gif"/>  -->
+<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="./icons/github_gif.gif"/> 
 <br/>
 <div align='center'>
 
