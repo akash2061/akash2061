@@ -41,8 +41,8 @@
 
 <!-- <img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://25.media.tumblr.com/ff53e6a275140e7f2586438c7dfc18a0/tumblr_n17e2zlX2a1slik4to1_500.gif"/>  -->
 <!-- <img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="./icons/Cloud.gif"/>  -->
-<!-- <img align="left" padding height="270px" width="300px" alt="𝙶𝙸𝙵" src="./icons/fire.gif"/>  -->
-<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="./icons/github_gif.gif"/> 
+<img align="left" padding height="270px" width="300px" alt="𝙶𝙸𝙵" src="./icons/fire.gif"/> 
+<!-- <img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="./icons/github_gif.gif"/>  -->
 <br/>
 <div align='center'>
 
