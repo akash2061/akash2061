@@ -117,7 +117,6 @@
     <img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=akash2061&theme=neon" alt="akash2061" />
     <!--<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=15&theme=neon" />
     <img align="left" height="200px" src="https://streak-stats.demolab.com?user=akash2061&theme=aura" alt="GitHub Streak" />
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=20&theme=radical" />
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=15&theme=aura" />
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=15&theme=nightowl" />
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=15&theme=midnight-purple" />
