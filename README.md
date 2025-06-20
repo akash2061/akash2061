@@ -73,6 +73,7 @@
 <code><img height="45" width="45" src="./icons/ansible.png"></code>
 <code><img height="45" width="35" src="./icons/jenkins.svg"></code>
 <code><img height="40" width="auto" src="./icons/AWS.png"></code>
+<code><img height="40" width="40" src="./icons/azure.png"></code>
 <code><img height="40" width="40" src="./icons/vscode.svg"></code>
 <code><img height="40" width="40" src="./icons/Vim.png"></code>
 <code><img height="40" width="40" src="./icons/neovim.webp"></code>
