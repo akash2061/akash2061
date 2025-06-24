@@ -92,7 +92,7 @@
 </div>
 
 <p align="center">
-<a  href="https://www.buymeacoffee.com/akash2061"><img width="200" src="./icons/bmc-button.png" /></a>
+    <a href="https://www.buymeacoffee.com/akash2061"><img width="200" src="./icons/bmc-button.png" /></a>
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
