@@ -11,7 +11,7 @@
 
 <div align='center'>
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and have a Chat! 💬
 </h1>
   <p align='center'>
     <a href="https://www.linkedin.com/in/akash-soni-01475924b/"><img height="30" src="./icons/linkedin.png" alt="akash soni" ></a>&nbsp;&nbsp;
