@@ -61,7 +61,7 @@
 <code><img height="42" width="58" src="./icons/rust.png"></code>
 <code><img height="50" width="50" src="./icons/go.png"></code>
 <code><img height="45" width="42" src="./icons/bash.png"></code>
-<code><img height="50" src="./icons/mysql.svg"/></code>
+<code><img height="50" width="42" src="./icons/mysql.svg"/></code>
 <code><img height="60" width="60" src="./icons/java.png"/></code>
 
 <hr>
