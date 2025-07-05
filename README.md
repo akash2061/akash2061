@@ -11,32 +11,32 @@
 
 <div align='center'>
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and have a Chat! 💬
 </h1>
   <p align='center'>
-    <a href="https://www.linkedin.com/in/akash-soni-01475924b/"><img height="30" src="./icons/linkedin.png" alt="akash soni" ></a>&nbsp;&nbsp;
-    <a href="mailto:aakashsoni8781@gmail.com"><img height="30" src="./icons/email.png"></a>&nbsp;&nbsp;
-    <a href="https://dev.to/akash2061"><img height="30" src="./icons/dev.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/akash-soni-01475924b/"><img height="30" width="30" src="./icons/linkedin.png" alt="akash soni" ></a>&nbsp;&nbsp;
+    <a href="mailto:aakashsoni8781@gmail.com"><img height="30" width="35" src="./icons/email.png"></a>&nbsp;&nbsp;
+    <a href="https://dev.to/akash2061"><img height="30" width="35" src="./icons/dev.png"></a>&nbsp;&nbsp;
     </p>
     <p>
-    <a href="https://stackoverflow.com/users/20176960/morningstar" target="_blank"><img align="center" src="./icons/stackoverflow.png" alt="morningstar" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
-    <a href="https://www.codechef.com/users/akashsoni2061" target="_blank"><img align="center" src="./icons/codechef.webp" alt="akashsoni2061" height="30"style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https://stackoverflow.com/users/20176960/morningstar" target="_blank"><img align="center" src="./icons/stackoverflow.png" alt="morningstar" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https://www.codechef.com/users/akashsoni2061" target="_blank"><img align="center" src="./icons/codechef.webp" alt="akashsoni2061" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
     <a href="https://github.com/akash2061" target="blank" rel="noreferrer">
         <img align="center" src="./icons/github.png" alt="https://github.com/akash2061" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://leetcode.com/u/akash_2061/" target="blank"><img align="center" src="./icons/leetcode.png" alt="leetcode" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>    
-    <a href="https://www.geeksforgeeks.org/user/morningstar2061/" target="blank"><img align="center" src="./icons/gfg.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
-    <a href="https://www.hackerrank.com/profile/akash2061" target="blank"><img align="center" src="./icons/hackerrank.webp" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https://leetcode.com/u/akash_2061/" target="blank"><img align="center" src="./icons/leetcode.png" alt="leetcode" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>    
+    <a href="https://www.geeksforgeeks.org/user/morningstar2061/" target="blank"><img align="center" src="./icons/gfg.png" alt="akash2061" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https://www.hackerrank.com/profile/akash2061" target="blank"><img align="center" src="./icons/hackerrank.webp" alt="akash2061" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
      </p>
-    <a href="https://www.credly.com/users/akash2061"><img height="30" src="./icons/Credly.png"></a>
+    <a href="https://www.credly.com/users/akash2061"><img height="30" width="60" src="./icons/Credly.png"></a>
 </div>
 <br/>
 
 -   🌱 I’m currently learning **C++ & Java for better development of my skills.**
 
 <h2 align="center">Challenge me on: <br>
-<a href="https://www.chess.com/member/aakash7878"><img height="30" src="./icons/chess.jpeg" alt="Chess.com" >&nbsp;&nbsp;
-<a href="https://lichess.org/@/aakash2061"><img height="30" src="./icons/lichess.png" alt="Chess.com" ></a></h2>
+<a href="https://www.chess.com/member/aakash7878"><img height="30" width="30" src="./icons/chess.jpeg" alt="Chess.com" >&nbsp;&nbsp;
+<a href="https://lichess.org/@/aakash2061"><img height="30" width="30" src="./icons/lichess.png" alt="Chess.com" ></a></h2>
 
 
 <!-- <img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://25.media.tumblr.com/ff53e6a275140e7f2586438c7dfc18a0/tumblr_n17e2zlX2a1slik4to1_500.gif"/>  -->
@@ -61,7 +61,7 @@
 <code><img height="42" width="58" src="./icons/rust.png"></code>
 <code><img height="50" width="50" src="./icons/go.png"></code>
 <code><img height="45" width="42" src="./icons/bash.png"></code>
-<code><img height="50" src="./icons/mysql.svg"/></code>
+<code><img height="50" width="60" src="./icons/mysql.svg"/></code>
 <code><img height="60" width="60" src="./icons/java.png"/></code>
 
 <hr>
@@ -72,7 +72,7 @@
 <code><img height="45" width="45" src="./icons/k8s.png"></code>
 <code><img height="45" width="45" src="./icons/ansible.png"></code>
 <code><img height="45" width="35" src="./icons/jenkins.svg"></code>
-<code><img height="40" width="auto" src="./icons/AWS.png"></code>
+<code><img height="40" width="65" src="./icons/AWS.png"></code>
 <code><img height="40" width="40" src="./icons/azure.png"></code>
 <code><img height="40" width="40" src="./icons/vscode.svg"></code>
 <code><img height="40" width="40" src="./icons/Vim.png"></code>
