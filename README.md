@@ -116,7 +116,7 @@
     <img align="left" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash2061&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="akash2061"/>
     <!--<img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash2061&theme=blue-green&hide_border=fa[](url)lse&include_all_commits=false&count_private=false&layout=compact&langs_count=8" alt="akash2061"/>-->
     <img align="left" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=akash2061&theme=neon" alt="akash2061" />
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=20&theme=holi&exclude_repo=MERN-STACK-TRAINING" />
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash2061&layout=donut-vertical&langs_count=20&theme=holi&exclude_repo=MERN-STACK-TRAINING,Celebal-DevOps-Project" />
 </p>
 </details>
 <br/>
