@@ -52,13 +52,13 @@
 
 <code><img height="45" width="45" src="./icons/cpp.png"></code>
 <code><img height="45" width="45" src="./icons/c.webp"></code>
-<code><img height="43" width="43" src="./icons/python.svg"></code>
+<code><img height="45" width="60" src="./icons/rust.png"></code>
 <code><img height="40" width="40" src="./icons/html.svg"></code>
 <code><img height="40" width="40" src="./icons/css.png"></code>
 <code><img height="40" width="40" src="./icons/js.svg"></code>
 <code><img height="40" width="40" src="./icons/ts.png"></code>
 <code><img height="40" width="40" src="./icons/react.webp"></code>
-<code><img height="42" width="58" src="./icons/rust.png"></code>
+<code><img height="43" width="43" src="./icons/python.svg"></code>
 <code><img height="50" width="50" src="./icons/go.png"></code>
 <code><img height="45" width="42" src="./icons/bash.png"></code>
 <code><img height="50" width="60" src="./icons/mysql.svg"/></code>
